@@ -1,0 +1,19 @@
+{
+  "name": "jsonify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CharlesAnthonyBrowne/JSONify.git"
+  },
+  "author": "Charles Browne <charles@charlesbrowne.io> (http://charlesbrowne.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CharlesAnthonyBrowne/JSONify/issues"
+  },
+  "homepage": "https://github.com/CharlesAnthonyBrowne/JSONify#readme"
+}
